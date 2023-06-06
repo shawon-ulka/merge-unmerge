@@ -1,0 +1,34 @@
+
+startseparate 12LP\a.config
+Hello
+I am A 
+You are listening from A
+endseparate 12LP\a.config
+
+startseparate 12LP\ppg\12lp.sp
+Hello
+this is an spice file
+
+.start
+
+
+.end
+endseparate 12LP\ppg\12lp.sp
+
+startseparate 28SLPe\b.config
+Hello
+I am B
+You are listening from B
+endseparate 28SLPe\b.config
+
+startseparate 28SLPe\logic\28slpe.tb
+this is a testbench file
+
+this is for testing purpose
+endseparate 28SLPe\logic\28slpe.tb
+
+startseparate 55LPx\c.config
+Hello
+I am B
+You are listening from B
+endseparate 55LPx\c.config
